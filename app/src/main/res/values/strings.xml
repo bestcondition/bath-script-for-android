@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BathScript</string>
+    <string name="test_str_en_short">English</string>
+    <string name="test_str_en_long">English is the most widely spoken language in the world, but Chinese has the largest number of speakers.</string>
+    <string name="test_str_zh_short">中文</string>
+    <string name="test_str_zh_long">中文是世界上使用者最多的语言，但是英语是流传最广的语言。</string>
+    <string name="exc_bt_text">执行</string>
+</resources>

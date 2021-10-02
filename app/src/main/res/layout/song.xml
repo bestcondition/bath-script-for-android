@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ele"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:layout_marginTop="10dp">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/test_str_zh_long"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/yes_bt"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/test_str_en_short" />
+
+    <Button
+        android:id="@+id/no_bt"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/test_str_zh_short" />
+
+</LinearLayout>
